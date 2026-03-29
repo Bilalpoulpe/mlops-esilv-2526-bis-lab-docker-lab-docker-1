@@ -233,3 +233,5 @@ Check that the hostnames change in the UI.
 And that's it!
 
 trigger actions
+
+trigger actions
